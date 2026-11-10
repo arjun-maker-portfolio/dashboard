@@ -1,6 +1,7 @@
 # WasteWise dashboard
 
 **See the [WasteWise](https://github.com/arjun-maker-portfolio/wastewise) repository first.**
+
 A dashboard for restaurant owners and kitchen managers to inspect waste measured automatically by the WasteWise camera system.
 
 ![Kitchen overview](docs/screenshots/overview.png)
