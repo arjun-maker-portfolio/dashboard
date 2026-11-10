@@ -1,0 +1,20 @@
+Lucide Icons
+https://lucide.dev
+https://github.com/lucide-icons/lucide
+
+download.svg
+https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/download.svg
+
+LICENSE-lucide.txt
+https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE
+
+Inter
+https://github.com/rsms/inter
+https://raw.githubusercontent.com/rsms/inter/master/docs/font-files/InterVariable.woff2
+https://raw.githubusercontent.com/rsms/inter/master/LICENSE.txt
+
+moon.svg
+https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/moon.svg
+
+sun.svg
+https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sun.svg
