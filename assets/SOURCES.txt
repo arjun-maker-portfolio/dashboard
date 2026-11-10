@@ -18,3 +18,8 @@ https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/moon.svg
 
 sun.svg
 https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sun.svg
+
+favicon.svg
+Lucide leaf icon, recoloured green
+https://lucide.dev/icons/leaf
+https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/leaf.svg
