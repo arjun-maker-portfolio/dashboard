@@ -8,6 +8,8 @@ A dashboard for restaurant owners and kitchen managers to inspect waste measured
 
 ![Service patterns and Focus recommendations](docs/screenshots/service-patterns.png)
 
+It is hosted here: https://arjun-maker-portfolio.github.io/dashboard/.
+
 ## Data
 
 This repository contains a reduced version of the WasteWise dashboard with fixed sample records and example ingredient costs in `data/demo.json`.
